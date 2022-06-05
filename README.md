@@ -1,9 +1,9 @@
 # TO4_AssignmentOne
 
-##Planning
+## Planning
 
 
-###LoggingAssignment
+### LoggingAssignment
 
 References
 [https://stackoverflow.com/questions/27578/when-to-choose-checked-and-unchecked-exceptions]
